@@ -1,0 +1,19 @@
+{
+  "name": "couseracp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djsinghnegi/Cousera-Competitive-Programmer-s-Core-Skills-Codes.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/djsinghnegi/Cousera-Competitive-Programmer-s-Core-Skills-Codes/issues"
+  },
+  "homepage": "https://github.com/djsinghnegi/Cousera-Competitive-Programmer-s-Core-Skills-Codes#readme"
+}
